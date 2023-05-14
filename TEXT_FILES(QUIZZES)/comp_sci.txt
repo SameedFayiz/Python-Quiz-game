@@ -1,0 +1,50 @@
+The basic operations performed by a computer are__________?
+a)Arithmetic operation
+b)Logical operation
+c)All of the above
+ans:c)All of the above
+Who is the father of Internet ?
+a)Chares Babbage
+b)Vint Cerf
+c)Denis Riche
+ans:b)Vint Cerf
+If a computer has more than one processor then it is known as__________?
+a)Uni-process
+b)Multiprocessor
+c)Multi-threaded
+ans:b)Multiprocessor
+A light sensitive device that converts drawing, printed text or other images into digital form is___________?
+a)Keyboard
+b)OMR
+c)scanner
+ans:c)Scanner
+WWW stands for___________?
+a)World Whole Web
+b)Wide World Web
+c)World Wide Web
+ans:c)World Wide Web
+What type of operating system MS-DOS is?
+a)Command Line Interface
+b)Graphical User Interface
+c)Menu Driven Interface
+ans:a)Command Line Interface
+Which technology is used in compact disks?
+a)Mechanical
+b)Electro Magnetic
+c)Laser
+ans:c)Laser
+1 Gigabyte is equal to ____________?
+a)1024 megabytes
+b)1024 bits
+c)1032 megabytes
+ans:a)1024 megabytes
+VGA is____________?
+a)Video Graphics Array
+b)Visual Graphics Array
+c)Volatile Graphics Array
+ans:a)Video Graphics Array
+WAN stands for_____________?
+a)Wap Area Network
+b)Wide Area Network
+c)Wide Array Net
+ans:b)Wide Area Network

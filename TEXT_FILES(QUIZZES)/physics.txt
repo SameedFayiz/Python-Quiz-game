@@ -1,0 +1,50 @@
+The branch of physics that deals with the nuclei of atom is called:
+a)solid state physics
+b)medical physics
+c)nuclear physics
+ans:c)nuclear physics
+Light year is a unit of:
+a)distance
+b)time
+c)speed
+ans:a)distance
+Which of the following is not an electromagnetic wave?
+a)x-rays
+b)radio waves
+c)sound waves
+ans:c)sound waves
+The charge of an electron is:
+a)9.11x10^-11C
+b)1.6x10^-19C
+c)6.25X10^-18C
+ans:b)1.6x10^-19C
+At extreme positions during the vibration of a body executing S.H.M:
+a)K.E is min and P.E is max
+b)both K.E and P.E are max
+c)K.E is max and P.E is min
+ans:a)K.E is min and P.E is max
+The value of 'g' at the center of the Earth is:
+a)double
+b)infinite
+c)zero
+ans:c)zero
+The resistance ______ with increase in temperature:
+a)decrease
+b)increase
+c)does not change
+ans:b)increase
+The amount of heat required to raise the temperature of unit mass of a substance through 1K is called:
+a)specific heat capacity
+b)heat capacity
+c)latent heat
+ans:a)specific heat capacity
+The lifetime of meta stable state is:
+a)10^-5 sec
+b)10^-8 sec
+c)10^-3 sec
+ans:c)10^-3 sec
+The rate of change of momentum is:
+a)velocity
+b)force
+c)work
+ans:b)force
